@@ -1,2 +1,2 @@
 # Wave
-Azubi Assignment
+Postgresql Queries
